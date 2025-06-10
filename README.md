@@ -22,3 +22,7 @@ A 3D First-Person Shooter game built in Unity using C#. Features include player 
 2. **Open the project in Unity 2022.3 LTS or later** to ensure full compatibility.
 3. Navigate to the **Scenes folder** and open the main scene to begin development or testing.
 4. Press the **Play** button in Unity Editor to launch the game.
+5. ### Download Assets  
+Get the preconfigured assets folder here:  
+[Download Lecture11Assets.zip](https://www.dropbox.com/scl/fi/uhajv4mx24fr837bheg31/Lecture11Assets.zip?rlkey=oflm6cyw15iqw2jvazguilt0g&dl=1)
+
